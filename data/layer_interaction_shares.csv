@@ -1,0 +1,38 @@
+app,cells,pair,share_pct
+Teleportation,576,L1,11.604
+Teleportation,576,L1×L2,6.53
+Teleportation,576,L1×L3,4.038
+Teleportation,576,L1×L4,15.229
+Teleportation,576,L2,5.238
+Teleportation,576,L2×L3,0.083
+Teleportation,576,L2×L4,4.01
+Teleportation,576,L3,2.474
+Teleportation,576,L3×L4,0.367
+Teleportation,576,L4,17.012
+Teleportation,576,higher,23.238
+GHZ preparation,368,L2,52.796
+GHZ preparation,368,L2×L3,0.42
+GHZ preparation,368,L2×L4,3.573
+GHZ preparation,368,L3,17.042
+GHZ preparation,368,L3×L4,0.557
+GHZ preparation,368,L4,24.255
+GHZ preparation,368,higher,0.571
+Entanglement swapping,736,L2,10.527
+Entanglement swapping,736,L2×L3,0.069
+Entanglement swapping,736,L2×L4,3.988
+Entanglement swapping,736,L3,6.015
+Entanglement swapping,736,L3×L4,1.461
+Entanglement swapping,736,L4,47.125
+Entanglement swapping,736,higher,2.991
+CHSH,184,L2,92.694
+CHSH,184,L2×L3,4.79
+CHSH,184,L3,0.022
+CHSH,184,higher,2.495
+Teleportation,576,L2×L3_paper,0.083
+Teleportation,576,L3×L4_paper,0.181
+GHZ preparation,368,L2×L3_paper,0.42
+GHZ preparation,368,L3×L4_paper,0.557
+Entanglement swapping,736,L2×L3_paper,0.069
+Entanglement swapping,736,L3×L4_paper,0.701
+CHSH,184,L2×L3_paper,4.79
+CHSH,184,L3×L4_paper,0.0

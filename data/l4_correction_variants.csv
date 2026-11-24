@@ -1,0 +1,5 @@
+l4,F,sigma,acceptance
+real-time correction (paper default),0.954807,0.000406,1.0
+post-processed frame,0.975845,0.0003,1.0
+post-selection,0.979082,0.000556,0.2518
+ideal readout,0.969616,0.000335,1.0

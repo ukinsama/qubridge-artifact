@@ -1,0 +1,22 @@
+app,term,floor_pct
+Teleportation,total,1.124
+Teleportation,higher,0.935
+Teleportation,L1×L2,0.043
+Teleportation,L1×L3,0.0078
+Teleportation,L1×L4,0.0078
+Teleportation,L2×L3,0.043
+Teleportation,L2×L4,0.043
+Teleportation,L3×L4,0.0078
+GHZ preparation,total,1.16
+GHZ preparation,higher,0.572
+GHZ preparation,L2×L3,0.2845
+GHZ preparation,L2×L4,0.1422
+GHZ preparation,L3×L4,0.0063
+Entanglement swapping,total,0.325
+Entanglement swapping,higher,0.221
+Entanglement swapping,L2×L3,0.0397
+Entanglement swapping,L2×L4,0.0397
+Entanglement swapping,L3×L4,0.0018
+CHSH,total,9.843
+CHSH,higher,2.42
+CHSH,L2×L3,4.841

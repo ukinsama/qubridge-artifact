@@ -3,6 +3,6 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
-*.png
-!figures/*.png
-.claude/
+# outputs of re-runs that were sent to a scratch directory
+rerun/
+source/experiments/results/dry_run/
